@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @sochima-ifedikwa and I am current student at Texas Tech University!!
-- 👀 I’m interested in Software Development and programing languages like Python and C++
+- 👋 Hi, I’m @sochima-ifedikwa and I am currently a student at Brigham Young University Idaho!!
+- 👀 I’m interested in Software Development and programming languages like Python and C++
 - 🌱 I’m currently learning more about Data Structures and Algorithm in C++ and Python
 - 💞️ I’m looking to collaborate on Projects that will help me develop my skills 
-- 📫 How to reach me : 832-561-8587, joseph.ifedikwa@ttu.edu
+- 📫 How to reach me: 832-561-8587, ife24002@byui.edu
+
 
 <!---
 sochima-ifedikwa/sochima-ifedikwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
