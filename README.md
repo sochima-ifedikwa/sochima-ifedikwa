@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and programming languages like Python and C++
 - 🌱 I’m currently learning more about Data Structures and Algorithm in C++, C# and Python
 - 💞️ I’m looking to collaborate on Projects that will help me develop my skills 
-- 📫 How to reach me: 832-561-8587, ife24002@byui.edu
+- 📫 How to reach me: 832-561-8587, ifedikwasochima@gmail.com
 
 
 <!---
